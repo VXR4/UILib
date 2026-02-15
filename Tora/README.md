@@ -2,7 +2,7 @@
 
 [![Preview](Screenshot%202026-02-15%20155628.png)](Screenshot%202026-02-15%20155628.png)
 
-Simple example script using Tora Library
+Simple example script using [Tora Library](https://github.com/liebertsx/Tora-Library/tree/main)
 
 ---
 
