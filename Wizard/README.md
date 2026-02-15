@@ -1,5 +1,7 @@
 # 🧙 [Wizard UI Library](https://github.com/bloodball/UI-Librarys/blob/main/wizard) Example (Roblox)
 
+[![Preview](Screenshot%202026-02-15%20154734.png)](Screenshot%202026-02-15%20154734.png)
+
 Simple example script
 
 ---
